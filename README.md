@@ -38,6 +38,6 @@ Future Enhancements:
 - Create a Power BI version for deeper analysis
 
 Dashboard Preview:
-
+https://github.com/mestrydipti/HR-Attrition-Analysis-/blob/main/HR%20Data%20Analysis.png
 
 
