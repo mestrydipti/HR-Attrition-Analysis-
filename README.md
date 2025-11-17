@@ -1,5 +1,5 @@
 # HR-Attrition-Analysis-
-This repository contains an HR Attrition Analysis Dashboard created entirely in Microsoft Excel**.  
+This repository contains an HR Attrition Analysis Dashboard created entirely in Microsoft Excel.  
 The dashboard visualizes important HR metrics such as:
 
 - Total Employees  
